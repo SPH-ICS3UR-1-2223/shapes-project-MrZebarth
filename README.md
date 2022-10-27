@@ -21,7 +21,7 @@ Give the user a menu
 Because we have not learned Arrays yet, it won't be possible for you to keep track of multiple shapes.
 Simply keep one of each shape that can be accessed, created, or modified
 
-##**Rectangle Class**
+## **Rectangle Class**
 Must have:
 - length
 - width
@@ -37,7 +37,7 @@ Must have:
 - FindArea (private!)
 - PrintStats
 
-##**Triangle Class**
+## **Triangle Class**
 Assume right angle triangle! Side A is height. Side B is base
 Must have: 
 - Side A
@@ -54,7 +54,7 @@ Must have:
 - FindArea (private!)
 - PrintStats
 
-##**Circle Class**
+## **Circle Class**
 Must have:
 - Radius
 - Circumference (not set by user)
